@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+<category>
+    <pattern>NLP Scientist Career</pattern>
+    <template>
+        An NLP scientist is responsible for the technical creation and coding of NLP devices and applications. Ultimately, these professionals provide machines with the ability to understand human languages. Whether an NLP scientist is responsible for the development of a physical device or a mobile application, their project will require the integration of a system that understands human vocabulary.
+        <br></br>
+        <br></br>
+        <link>
+            <text>here is a link for more information</text>
+            <url>https://www.wgu.edu/career-guide/information-technology/nlp-scientist-career.html</url>
+        </link>
+    </template>
+</category>
+</aiml>

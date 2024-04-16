@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+      
+    <pattern>Hello</pattern>
+    <template> hi my name is bob i am bot that helps you in picking a job. Please type list for a list of jobs</template>
+    
+  </category>
+  
+  <category>
+    <pattern>list</pattern>
+    <template>Here are 5 Computer Science careers that you can look into with your degree
+        <button>
+            <text>Information Manager</text>
+            <postback>information manager</postback>
+        </button>
+        <button>
+            <text>Computer Scientist Career</text>
+            <postback>computer scientist career</postback>
+        </button>
+        <button>
+            <text>Data Engineer Career</text>
+            <postback>data engineer career</postback>
+        </button>
+        <button>
+            <text>NLP Scientist Career</text>
+            <postback>nlp scientist career</postback>
+        </button>
+        <button>
+            <text>Computer Vision Engineer Career</text>
+            <postback>computer vision engineer career</postback>
+        </button>
+    </template>
+    </category>
+
+  
+</aiml>

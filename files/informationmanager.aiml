@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <category>
+        <pattern>Information Manager</pattern>
+        <template>information managers are experts in information technology (IT). With a unique blend of project management, IT expertise, and interpersonal communication skills, they work within organizations to coordinate and manage the flow of data.
+        <br></br>
+        <br></br>
+        <link>
+            <text>here is a link for more information</text>
+            <url>https://www.wgu.edu/career-guide/information-technology/information-manager-career.html</url>
+             </link>
+        </template>
+    </category>
+    
+</aiml>
